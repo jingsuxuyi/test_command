@@ -19,3 +19,4 @@ should be deleted
 yes, deleted
 local
 from dev
+master
