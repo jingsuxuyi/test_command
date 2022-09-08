@@ -11,3 +11,4 @@ localaaaaa
 2022/09/06 add from github
 yes
 no
+yesno
